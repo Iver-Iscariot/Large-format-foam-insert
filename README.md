@@ -23,6 +23,8 @@ EDIT: Making the inside purely out of foam would be VERY expensive. I therefore 
 
 I use boxes.py to generate the lasercut-files using this text carefully calculated from my cad file
 https://boxes.hackerspace-bamberg.de/TrayLayout?
+
+```
  ,> 211.00mm
  | ,> 31.00mm
  | | ,> 184.00mm
@@ -42,3 +44,4 @@ https://boxes.hackerspace-bamberg.de/TrayLayout?
 +   +-+-+-+-+
 |   |     | |  32.00mm
 +-+-+-+-+-+-+
+```
