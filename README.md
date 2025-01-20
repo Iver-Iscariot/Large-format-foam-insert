@@ -16,3 +16,29 @@ I will therefore simply lasercut a dovetail-plywood box for it, and install some
 To make it suitcase-style, i will use a "sekketralle" from clas ohlson
 https://www.clasohlson.com/no/Sammenleggbar-tralle/p/40-8867
 I will lasercut some plywood pieces matching the pattern on the bottom, so that it can be slotted onto it (and attached to the handle bar with some sort of straps) I need to use the sekketralle for other stuff, and it is practical to be able to remove the trunk and carry as a backpack with some sort of straps, if you're shooting in rugged terrain
+
+
+EDIT: Making the inside purely out of foam would be VERY expensive. I therefore pivoted to making inside walls, and put padding on them 
+![image](https://github.com/user-attachments/assets/ac27a6ac-4c31-41f5-b760-39f09100990a)
+
+I use boxes.py to generate the lasercut-files using this text carefully calculated from my cad file
+https://boxes.hackerspace-bamberg.de/TrayLayout?
+ ,> 211.00mm
+ | ,> 31.00mm
+ | | ,> 184.00mm
+ | | | ,> 66.00mm
+ | | | | ,> 71.00mm
+ | | | | | ,> 84.00mm
++-+-+-+-+-+-+
+|   | | | | |  32.00mm
++   + + + +-+
+|   | | | | |  115.00mm
++   +-+-+-+ +
+|   | |   | |  14.00mm
++ +-+ +   + +
+| | | |   | |  133.00mm
++ +-+-+-+-+ +
+|         | |  49.00mm
++   +-+-+-+-+
+|   |     | |  32.00mm
++-+-+-+-+-+-+
