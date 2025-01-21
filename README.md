@@ -58,6 +58,8 @@ Jeg må gjøre litt prøving og feiling for å finne en bra burn correction til 
 ```
 
 Høyden her er gitt ut ifra standardene, som er de høyeste/bredeste tingene som skal med. Boksen er derfor litt høy for resten av objektene. Jeg tenker å løse dette ved å lage små stilaser i boksene, som holder en bit med foam på riktig høyde, og som så holder foam med et cutout til objektet som holder det på plass. Treet som holder skummet må ha tilsvarende cutout, men med litt margin, slik at ikke objektet støter mot det
+![image](https://github.com/user-attachments/assets/d92ed9e0-c2b1-4a3e-a579-bf8803b57c5e)
+
 
 
 Lokket er helt likt, bare speilvendt, 69-6 = 63 mm høyt, og med de indre veggene i delen med små-rom fjærnet, slik at én stor skumplate kan holde alt nede
