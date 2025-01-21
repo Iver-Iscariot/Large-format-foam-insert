@@ -56,6 +56,14 @@ Sett thickness til 6
 
 Jeg må gjøre litt prøving og feiling for å finne en bra burn correction til mitt materiale før jeg kutter the big one
 ```
+0    burn correction - faller helt fra hverandre, og det er litt synlig hull mellom tabs.
+0.01 litt grip, men ikke veldig solid
+0.05 Nice grip for en boks i 10cm området, men kan bli litt for tight på en stor boks.
+0.1  ALT for tight, går så vidt å få sammen tre sider på en 10cm boks
+
+Kommer til å gå får noe mellom 0.01 og 0.05, kanskje nærmere 0.01, siden boksen er stor (0.02)
+
+
 
 Høyden her er gitt ut ifra standardene, som er de høyeste/bredeste tingene som skal med. Boksen er derfor litt høy for resten av objektene. Jeg tenker å løse dette ved å lage små stilaser i boksene, som holder en bit med foam på riktig høyde, og som så holder foam med et cutout til objektet som holder det på plass. Treet som holder skummet må ha tilsvarende cutout, men med litt margin, slik at ikke objektet støter mot det
 ![image](https://github.com/user-attachments/assets/d92ed9e0-c2b1-4a3e-a579-bf8803b57c5e)
