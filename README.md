@@ -11,7 +11,7 @@ On that, it was hard to find a supplyer of (laser cuttable) foam in norway, but 
 https://www.rufo.no/products/50-mm-plastazo3
 Its a laminate of 5mm foam layers that can be pulled apart.
 
-Originally, I wanted to fit this in a peli-case with a suitcase-style pullbar and wheels, but there was no way this would fit. Especially since i wanted to store the camera semi-assembled in the camera (it typically takes ~20min to take ONE picture with this camera, so every time-save is worth it)
+Originally, I wanted to fit this in a peli-case with a suitcase-style pullbar and wheels, but there was no way this would fit. Especially since i wanted to store the camera semi-assembled in the case (it typically takes ~20min to take ONE picture with this camera, so every time-save is worth it)
 I will therefore simply lasercut a dovetail-plywood box for it, and install some hardware.
 To make it suitcase-style, i will use a "sekketralle" from clas ohlson
 https://www.clasohlson.com/no/Sammenleggbar-tralle/p/40-8867
