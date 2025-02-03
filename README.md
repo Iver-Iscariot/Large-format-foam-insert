@@ -4,6 +4,9 @@ CAD file of my camera
 ![image](https://github.com/user-attachments/assets/add5209d-44c2-4111-9af3-86e1e899c17b)
 Its a cambo monorail-type large format camera
 
+![image](https://github.com/user-attachments/assets/e167b8c1-42e5-48ee-938a-97bd8775ac28)
+
+
 I have modelled all the components, and laid them out in a desirable, ergonomic layout (Things can be accessed in the order of when you assemble them (this was a issue with the case i bought it in)).
 I then drew some simple box-envelopes around them, such that they have some tolerance. These envelope-boxes are also in increments of 5mm height wise, as this is limited by the foam i will be using.
 
